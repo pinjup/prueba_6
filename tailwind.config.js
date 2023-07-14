@@ -8,6 +8,9 @@ export default {
     extend: {},
     fontFamily: {
       'ubuntu': ["'Ubuntu'", 'sans-sefif']
+    },
+    screens : {
+      'laptop': '1440px',
     }
   },
   plugins: [],
